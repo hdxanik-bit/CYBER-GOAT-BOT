@@ -1,46 +1,119 @@
-{
-  "commandBanned": {},
-  "envGlobal": {
-    "weatherApiKey": "d7e795ae6a0d44aaa8abb1a0a7ac19e4",
-    "goatbotApikey": ""
-  },
-  "envCommands": {
-    "daily": {
-      "rewardFirstDay": {
-        "coin": 100,
-        "exp": 10
-      }
+[
+    {
+        "key": "dbln",
+        "value": "%7B%2261583945310234%22%3A%22zjuBn97D%22%7D",
+        "domain": "facebook.com",
+        "path": "/login/device-based/",
+        "hostOnly": false,
+        "creation": "2026-02-02T12:18:19.380Z",
+        "lastAccessed": "2026-02-02T12:18:19.384Z"
     },
-    "notification": {
-      "delayPerGroup": 250
+    {
+        "key": "datr",
+        "value": "24-AaRWiOxmC4fSr4aBU_qzt",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-02-02T12:18:19.384Z",
+        "lastAccessed": "2026-02-02T12:18:19.384Z"
     },
-    "rank": {
-      "deltaNext": 5
+    {
+        "key": "sb",
+        "value": "24-AadytMxJqxRwb35uXMSD6",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-02-02T12:18:19.384Z",
+        "lastAccessed": "2026-02-02T12:18:19.384Z"
     },
-    "rankup": {
-      "deltaNext": 5
+    {
+        "key": "ps_l",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-02-02T12:18:19.384Z",
+        "lastAccessed": "2026-02-02T12:18:19.384Z"
     },
-    "appstore": {
-      "limitResult": 3
+    {
+        "key": "ps_n",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-02-02T12:18:19.384Z",
+        "lastAccessed": "2026-02-02T12:18:19.384Z"
     },
-    "dhbc": {
-      "reward": 1000
+    {
+        "key": "c_user",
+        "value": "61583945310234",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-02-02T12:18:19.384Z",
+        "lastAccessed": "2026-02-02T12:18:19.384Z"
     },
-    "uptime6": {},
-    "resend": {
-      "deltaNext": 5
+    {
+        "key": "xs",
+        "value": "9%3AfoBeECCzOOnpbA%3A2%3A1770033143%3A-1%3A-1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-02-02T12:18:19.384Z",
+        "lastAccessed": "2026-02-02T12:18:19.384Z"
     },
-    "notice": {
-      "delayPerGroup": 250
+    {
+        "key": "fr",
+        "value": "03VdoThNKbiBeWhBn.AWd6WlvSB8UcOXW5QKAnVG8UkpMBe2BJbJNynFyuFySeicyOUq4.BpgI_b..AAA.0.0.BpgJAA.AWfrUooYDVPi2NLvpZ246-9S8oY",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-02-02T12:18:19.384Z",
+        "lastAccessed": "2026-02-02T12:18:19.384Z"
+    },
+    {
+        "key": "locale",
+        "value": "en_GB",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-02-02T12:18:19.384Z",
+        "lastAccessed": "2026-02-02T12:18:19.384Z"
+    },
+    {
+        "key": "pas",
+        "value": "61583945310234%3AKFMf8Z3xqU",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-02-02T12:18:19.384Z",
+        "lastAccessed": "2026-02-02T12:18:19.384Z"
+    },
+    {
+        "key": "wl_cbv",
+        "value": "v2%3Bclient_version%3A3070%3Btimestamp%3A1770033152",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-02-02T12:18:19.385Z",
+        "lastAccessed": "2026-02-02T12:18:19.385Z"
+    },
+    {
+        "key": "fbl_st",
+        "value": "101424499%3BT%3A29500552",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-02-02T12:18:19.385Z",
+        "lastAccessed": "2026-02-02T12:18:19.385Z"
+    },
+    {
+        "key": "vpd",
+        "value": "v1%3B807x421x1.712499976158142",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-02-02T12:18:19.385Z",
+        "lastAccessed": "2026-02-02T12:18:19.385Z"
     }
-  },
-  "envEvents": {
-    "logsbot": {
-      "allow": true
-    }
-  },
-  "commandUnload": [
-    "fa2.js",
-    "upx.js"
-  ]
-}
+]
